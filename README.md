@@ -1,0 +1,1 @@
+# weather-api-go-standard
